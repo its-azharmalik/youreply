@@ -32,31 +32,31 @@ Welcome to YouReply, your go-to solution for revolutionizing YouTube engagement 
 
 We're committed to continually enhancing YouReply. Here's an in-depth look at our upcoming features:
 
-#### 5. Bulk Comment Actions
+#### 1. Bulk Comment Actions
 
 Perform bulk actions on your comments with ease. Refactor multiple comments or reply to multiple viewers' comments in a single click. Save time and increase engagement efficiency.
 
-#### 6. Subscription Tiers
+#### 2. Subscription Tiers
 
 Choose from multiple subscription plans, each tailored to your specific needs. Unlock a range of AI features and benefits, including advanced analytics, comment moderation, and more.
 
-#### 7. Advanced Analytics
+#### 3. Advanced Analytics
 
 Gain deeper insights into your channel's performance. Analyze comment trends, viewer demographics, and engagement metrics through our advanced analytics dashboard.
 
-#### 8. Comment Moderation
+#### 4. Comment Moderation
 
 Implement customizable comment moderation rules to maintain a respectful and positive community. Automatically flag or block inappropriate comments.
 
-#### 9. Integration with Popular Platforms
+#### 5. Integration with Popular Platforms
 
 Extend YouReply's capabilities to other social media platforms. Manage and respond to comments across multiple platforms from a single dashboard.
 
-#### 10. User-Specific AI Training
+#### 6. User-Specific AI Training
 
 Train the AI model with your specific channel's content for highly personalized responses. Fine-tune the AI to understand your unique audience.
 
-#### 11. Community Contributions
+#### 7. Community Contributions
 
 We invite the community to build and improve any of the above-mentioned features. Your contributions are valuable in shaping the future of YouReply and enhancing user experiences.
 
@@ -83,7 +83,7 @@ We welcome contributions from the community to make YouReply even better. Here's
 
 - **Documentation**: Help us improve our documentation to make it more user-friendly.
 
-- **Community Contributions**: You are invited to build any of the above-mentioned features and contribute to their enhancement. Join our community effort to make YouReply the best it can be.
+- **Community Contributions**: You are invited to build any of the above-mentioned features or contribute to their enhancement. Join our community effort to make YouReply the best it can be.
 
 ## License
 
