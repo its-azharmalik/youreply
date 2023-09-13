@@ -22,23 +22,11 @@ Welcome to YouReply, your go-to solution for revolutionizing YouTube engagement 
 - Train the AI model with sample comments for tailored responses.
 - Streamline engagement with viewers and increase comment response efficiency.
 
-#### 2. Subscription Model
-
-- Access different AI features through subscription tiers.
-- Choose the subscription plan that suits your needs and budget.
-- Unlock advanced features like bulk comment actions, comment refactoring, and more.
-
-#### 3. Comment Management
+#### 2. Comment Management
 
 - Easily manage and organize your old comment replies.
 - Monitor comment trends and viewer interactions in one centralized dashboard.
 - Customize your AI-generated responses and improve engagement.
-
-#### 4. Auto-Spam Comment Handling
-
-- Automatically identify and filter out spam comments.
-- Maintain a clean and respectful comment section with ease.
-- Ensure that your responses are directed towards genuine viewers.
 
 ### Future Features
 
