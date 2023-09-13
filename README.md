@@ -30,23 +30,38 @@ Welcome to YouReply, your go-to solution for revolutionizing YouTube engagement 
 
 ### Future Features
 
-We're committed to continually enhancing YouReply. Here are some upcoming features:
+We're committed to continually enhancing YouReply. Here's an in-depth look at our upcoming features:
 
-- **Bulk Comment Actions**: Perform bulk actions like comment refactoring and multiple replies in a single click.
-  
-- **Spam Comment Refactoring**: Perform bulk actions like comment refactoring and multiple replies in a single click.
+#### 5. Bulk Comment Actions
 
-- **Subscription Tiers**: Enjoy tiered subscription plans, each offering a different set of AI features and benefits.
+Perform bulk actions on your comments with ease. Refactor multiple comments or reply to multiple viewers' comments in a single click. Save time and increase engagement efficiency.
 
-- **Advanced Analytics**: Gain deeper insights into your channel's performance, comment trends, and viewer demographics.
+#### 6. Subscription Tiers
 
-- **Comment Moderation**: Implement customizable comment moderation rules to maintain a respectful community.
+Choose from multiple subscription plans, each tailored to your specific needs. Unlock a range of AI features and benefits, including advanced analytics, comment moderation, and more.
 
-- **Integration with Popular Platforms**: Extend YouReply's capabilities to other social media platforms.
+#### 7. Advanced Analytics
 
-- **User-Specific AI Training**: Train the AI model with your specific channel's content for highly personalized responses.
+Gain deeper insights into your channel's performance. Analyze comment trends, viewer demographics, and engagement metrics through our advanced analytics dashboard.
+
+#### 8. Comment Moderation
+
+Implement customizable comment moderation rules to maintain a respectful and positive community. Automatically flag or block inappropriate comments.
+
+#### 9. Integration with Popular Platforms
+
+Extend YouReply's capabilities to other social media platforms. Manage and respond to comments across multiple platforms from a single dashboard.
+
+#### 10. User-Specific AI Training
+
+Train the AI model with your specific channel's content for highly personalized responses. Fine-tune the AI to understand your unique audience.
+
+#### 11. Community Contributions
+
+We invite the community to build and improve any of the above-mentioned features. Your contributions are valuable in shaping the future of YouReply and enhancing user experiences.
 
 ## Get Started
+
 
 ### Frontend Repository
 
@@ -58,7 +73,17 @@ We're committed to continually enhancing YouReply. Here are some upcoming featur
 
 ## Contributing
 
-We welcome contributions from the community to make YouReply even better. Feel free to open issues, submit pull requests, or provide feedback.
+We welcome contributions from the community to make YouReply even better. Here's how you can get involved:
+
+- **Reporting Issues**: If you encounter a bug or have a suggestion, open an issue to report it.
+
+- **Submitting Pull Requests**: Contribute code or improvements through pull requests. We value your contributions.
+
+- **Feedback**: Share your thoughts and ideas. Your feedback helps us refine and improve our product.
+
+- **Documentation**: Help us improve our documentation to make it more user-friendly.
+
+- **Community Contributions**: You are invited to build any of the above-mentioned features and contribute to their enhancement. Join our community effort to make YouReply the best it can be.
 
 ## License
 
