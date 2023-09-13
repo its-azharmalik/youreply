@@ -1,5 +1,15 @@
 # YouReply - AI-Powered YouTube Comment Assistant
 
+## Look at the Code
+
+### Frontend Repository
+
+- [YouReply Frontend](link-to-your-frontend-repo)
+
+### Backend Repository
+
+- [YouReply Backend](link-to-your-backend-repo)
+
 ## Vision
 
 Welcome to YouReply, your go-to solution for revolutionizing YouTube engagement through AI-generated comment responses. Our vision is to empower content creators and channel managers with cutting-edge AI technology, simplifying their interaction with viewers, and enhancing channel growth.
