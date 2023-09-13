@@ -24,15 +24,17 @@ Welcome to YouReply, your go-to solution for revolutionizing YouTube engagement 
 
 #### 2. Comment Management
 
-- Easily manage and organize your old comment replies.
-- Monitor comment trends and viewer interactions in one centralized dashboard.
+- Easily manage and OneClick your AI comment replies.
+- Edit User Behaviour and Sample Replies in one centralized dashboard.
 - Customize your AI-generated responses and improve engagement.
 
 ### Future Features
 
 We're committed to continually enhancing YouReply. Here are some upcoming features:
 
-- **Bulk Comment Actions**: Perform bulk actions like comment refactoring and replies in a single click.
+- **Bulk Comment Actions**: Perform bulk actions like comment refactoring and multiple replies in a single click.
+  
+- **Spam Comment Refactoring**: Perform bulk actions like comment refactoring and multiple replies in a single click.
 
 - **Subscription Tiers**: Enjoy tiered subscription plans, each offering a different set of AI features and benefits.
 
