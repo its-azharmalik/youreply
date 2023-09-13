@@ -4,11 +4,11 @@
 
 ### Frontend Repository
 
-- [YouReply Frontend](link-to-your-frontend-repo)
+- [YouReply Frontend](https://github.com/its-azharmalik/youreply-frontend)
 
 ### Backend Repository
 
-- [YouReply Backend](link-to-your-backend-repo)
+- [YouReply Backend](https://github.com/its-azharmalik/youreply-backend)
 
 ## Vision
 
