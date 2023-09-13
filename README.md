@@ -91,7 +91,7 @@ This project is licensed under the [MIT License](link-to-your-license-file).
 
 ## Contact
 
-For inquiries and support, please contact us at [your-email@example.com](mailto:your-email@example.com).
+For inquiries and support, please contact us at [mywritingfrenzy@gmail.com](mailto:mywritingfrenzy@gmail.com).
 
 Thank you for choosing YouReply, and we look forward to helping you enhance your YouTube engagement!
 
